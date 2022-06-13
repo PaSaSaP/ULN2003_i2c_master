@@ -1,0 +1,8 @@
+{
+    "configuration": "printf=full,cpu=8MHzatmega328",
+    "board": "arduino:avr:pro",
+    "port": "/dev/tty.usbserial-A50285BI",
+    "programmer": "arduino:usbasp",
+    "output": "./build",
+    "sketch": "ULN2003_i2c_master.ino"
+}
